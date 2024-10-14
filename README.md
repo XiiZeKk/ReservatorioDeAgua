@@ -10,4 +10,5 @@ Classe *Random*: Sendo utilizda para gerar números aleatórios que são usados 
 
 ### Estruturas de controle:
 *if-else* para verificar o nível de água e tomar decisões automáticas.
+
 *Console.ReadLine()* para que possa captar a entrada do usuário na etapa de controle manual.
